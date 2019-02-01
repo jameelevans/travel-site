@@ -21,7 +21,7 @@
     }
   }
 
-  &--blue {
+  &__blue {
     background-color: $mainBlue;
     color: #FFF;
   }
